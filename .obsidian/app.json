@@ -3,8 +3,9 @@
   "trashOption": "local",
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "attachmentFolderPath": "./",
+  "attachmentFolderPath": "./img",
   "userIgnoreFilters": [],
   "livePreview": false,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "promptDelete": false
 }
