@@ -1,0 +1,10 @@
+{
+  "showInlineTitle": false,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./",
+  "userIgnoreFilters": [],
+  "livePreview": false,
+  "showLineNumber": false
+}
